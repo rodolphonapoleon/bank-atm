@@ -1,70 +1,39 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+bank-atm
+</h1>
+<p align="center">Bank Atm simulation created with React and styled with bootstrap<p>
 
-## Available Scripts
+## Description
 
-In the project directory, you can run:
+The idea is to create an app that simulates the bank Atm. The user has to choose to make a deposit or withdraw money, and everytime an action occured, the account balance is updated. I added a feature also that make any withdraw less than the account balance not availble, and pop up a message to let the user know that the transaction is not possible. For each transaction not possible the submit button is disable.
 
-### `npm start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Installing
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+* Fork the repo
+* Clone it to your local machine
 
-### `npm test`
+### Executing application
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+* Install a local server on your machine (like http-server)
+* run npm start to see the app on the web browser
 
-### `npm run build`
+## Support
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+For any problems or issues:
+* Email : <rnapoleon@imajine.ht>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Let's keep in touch
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[![LinkedIn Account](https://res.cloudinary.com/napo05/image/upload/c_scale,w_40/v1635287719/SocialMediaLogo/NicePng_linkedin-images-png_9192440_w8rfwf.png)](https://www.linkedin.com/in/rodolpho-richard-napoleon-30337113/)
 
-### `npm run eject`
+[![Twitter Account](https://res.cloudinary.com/napo05/image/upload/c_scale,w_40/v1635289001/SocialMediaLogo/NicePng_metlife-logo-png_9274906_xn6ecf.png)](https://twitter.com/papinapo)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+## Roadmap
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+* Use Amazon Amplify to build authentification.
+* Amzon DynamoDB to store data of each client
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
