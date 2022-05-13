@@ -1,26 +1,16 @@
 {
   "files": {
-    "main.css": "/bank-atm/static/css/main.096d3ce6.chunk.css",
-    "main.js": "/bank-atm/static/js/main.1f4dc926.chunk.js",
-    "main.js.map": "/bank-atm/static/js/main.1f4dc926.chunk.js.map",
-    "runtime-main.js": "/bank-atm/static/js/runtime-main.c5eb7357.js",
-    "runtime-main.js.map": "/bank-atm/static/js/runtime-main.c5eb7357.js.map",
-    "static/css/2.0a9ec390.chunk.css": "/bank-atm/static/css/2.0a9ec390.chunk.css",
-    "static/js/2.cdc9b26e.chunk.js": "/bank-atm/static/js/2.cdc9b26e.chunk.js",
-    "static/js/2.cdc9b26e.chunk.js.map": "/bank-atm/static/js/2.cdc9b26e.chunk.js.map",
-    "static/js/3.c9bd5932.chunk.js": "/bank-atm/static/js/3.c9bd5932.chunk.js",
-    "static/js/3.c9bd5932.chunk.js.map": "/bank-atm/static/js/3.c9bd5932.chunk.js.map",
+    "main.css": "/bank-atm/static/css/main.f5638c5d.css",
+    "main.js": "/bank-atm/static/js/main.b97898b0.js",
+    "static/js/787.4deca40e.chunk.js": "/bank-atm/static/js/787.4deca40e.chunk.js",
+    "static/media/banklogo.png": "/bank-atm/static/media/banklogo.b00d71f116715cd17f81.png",
     "index.html": "/bank-atm/index.html",
-    "static/css/2.0a9ec390.chunk.css.map": "/bank-atm/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.096d3ce6.chunk.css.map": "/bank-atm/static/css/main.096d3ce6.chunk.css.map",
-    "static/js/2.cdc9b26e.chunk.js.LICENSE.txt": "/bank-atm/static/js/2.cdc9b26e.chunk.js.LICENSE.txt",
-    "static/media/banklogo.b00d71f1.png": "/bank-atm/static/media/banklogo.b00d71f1.png"
+    "main.f5638c5d.css.map": "/bank-atm/static/css/main.f5638c5d.css.map",
+    "main.b97898b0.js.map": "/bank-atm/static/js/main.b97898b0.js.map",
+    "787.4deca40e.chunk.js.map": "/bank-atm/static/js/787.4deca40e.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c5eb7357.js",
-    "static/css/2.0a9ec390.chunk.css",
-    "static/js/2.cdc9b26e.chunk.js",
-    "static/css/main.096d3ce6.chunk.css",
-    "static/js/main.1f4dc926.chunk.js"
+    "static/css/main.f5638c5d.css",
+    "static/js/main.b97898b0.js"
   ]
 }
